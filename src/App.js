@@ -4,10 +4,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Kissik Learning Series Workshop 1</h1>
+        <h1>Peer-Mentor Learning Series Workshop 1</h1>
         <div className="user-info">
-          <p><strong>Name:</strong> Your Name</p> 
-          <p><strong>USN:</strong> Your USN</p>
+          <p><strong>Name:</strong> Shashi Kumar R</p> 
+          <p><strong>USN:</strong> 1RVU23CSE425</p>
         </div>
       </header>
     </div>
